@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "称呼计算器", "称呼计算器\称呼计算器.csproj", "{D4A6AC58-114A-4B46-86C6-C56C2B9F19FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4A6AC58-114A-4B46-86C6-C56C2B9F19FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A6AC58-114A-4B46-86C6-C56C2B9F19FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A6AC58-114A-4B46-86C6-C56C2B9F19FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A6AC58-114A-4B46-86C6-C56C2B9F19FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7107C01A-9933-4074-BCAE-F81100D2013F}
+	EndGlobalSection
+EndGlobal
