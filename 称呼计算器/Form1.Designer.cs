@@ -33,18 +33,20 @@
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(187, 95);
+            this.label1.Location = new System.Drawing.Point(229, 111);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(240, 158);
+            this.label1.Size = new System.Drawing.Size(101, 324);
             this.label1.TabIndex = 0;
             this.label1.Text = "label1";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(978, 525);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "称呼计算器";
             this.ResumeLayout(false);
